@@ -2,7 +2,7 @@
 
 ## Description.
 
-![Apple website from 2014](https://github.com/anicma/apple-home-website-2014/blob/dev/assets/img/apple-home-website_2014-mar-01.png?raw=true)
+![Apple website from 2014](https://github.com/anicma/apple-home-website-2014/blob/master/assets/img/apple-home-website_2014-mar-01.png?raw=true)
 
 This project is a clone from [the Apple website from 2014.](http://web.archive.org/web/20140301004258/http://www.apple.com/), the instructions are base on [The Odin Project](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients), lastly I used Flexbox to build the Navbars and promo boxes.
 
