@@ -2,7 +2,11 @@
 
 ## Description.
 
-This project is a clone from [the Apple website from 2014.](http://web.archive.org/web/20140301004258/http://www.apple.com/), the instructions are base on [The Odin Project](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients), lastly I used Flexbox to build the Navbars.
+![Apple website from 2014](https://github.com/anicma/apple-home-website-2014/blob/dev/assets/img/apple-home-website_2014-mar-01.png?raw=true)
+
+This project is a clone from [the Apple website from 2014.](http://web.archive.org/web/20140301004258/http://www.apple.com/), the instructions are base on [The Odin Project](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients), lastly I used Flexbox to build the Navbars and promo boxes.
+
+For this project I used [Middleman](https://middlemanapp.com/), which is a website static generator made in Ruby, you can check the project [here](https://github.com/anicma/apple-home-website-2014-middleman), [Haml (HTML abstraction markup language)](http://haml.info/) as a template language and I organized the CSS code following the concept of [ITCSS or (Inverted Triangle CSS)](https://www.freecodecamp.org/news/managing-large-s-css-projects-using-the-inverted-triangle-architecture-3c03e4b1e6df/) to have less specifity, which helps the web browsers to process the CSS faster.
 
 ## Getting Started
 
