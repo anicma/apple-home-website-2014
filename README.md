@@ -8,7 +8,7 @@ This project is a clone from [the Apple website from 2014.](http://web.archive.o
 
 ### Prerequisites
 
-You need a Web Browser compatible with GRID, i.e. Chrome Ver. >= 57, Mozilla Ver. >= 52, Microsoft Edge Ver. >= 16 and Safari Ver. 10.3.
+You need a Web Browser compatible with FLEXBOX, i.e. Chrome Ver. >= 57, Mozilla Ver. >= 52, Microsoft Edge Ver. >= 16 and Safari Ver. 10.3.
 
 ### Install
 
